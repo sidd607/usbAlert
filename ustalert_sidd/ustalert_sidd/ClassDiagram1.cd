@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ustalert_sidd.UsbNotification" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAgAAAAABAAAACAAAACAYAAAAAAQAiAAAAAA=</HashCode>
+      <FileName>helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ustalert_sidd.main" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAQAAAAACAAAAQAAAAAAAAIAQAAAAgQ=</HashCode>
+      <FileName>helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ustalert_sidd.Program" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ustalert_sidd.ProjectInstaller" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gCAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>ProjectInstaller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ustalert_sidd.node" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAQAAAAAAAAQAABAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ustalert_sidd.deviceTree" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAICAAAAgAIAAAAgAAAAAAAECARAIIIAIAAAAAA=</HashCode>
+      <FileName>tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ustalert_sidd.UsbApi">
+    <Position X="4" Y="1.5" Width="1.75" />
+    <NestedTypes>
+      <Enum Name="ustalert_sidd.UsbApi.PowerSwitching" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="ustalert_sidd.UsbApi.USB_TRANSFER" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="ustalert_sidd.UsbApi.USB_HUB_INFORMATION" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="ustalert_sidd.UsbApi.USB_NODE_CONNECTION_INFORMATION_EX" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="ustalert_sidd.UsbApi.DEV_BROADCAST_VOLUME" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="ustalert_sidd.UsbApi.HubCharacteristics" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="ustalert_sidd.UsbApi.HID_DESCRIPTOR_DESC_LIST" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="ustalert_sidd.UsbApi.SP_CLASSINSTALL_HEADER" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="ustalert_sidd.UsbApi.USB_UNICODE_NAME" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="ustalert_sidd.UsbApi.USB_CONFIGURATION" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="ustalert_sidd.UsbApi.SP_DEVICE_INTERFACE_DATA" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="ustalert_sidd.UsbApi.HubPortStatus" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="ustalert_sidd.UsbApi.USB_HUB_NODE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="ustalert_sidd.UsbApi.USB_DEVICE_DESCRIPTOR" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Struct Name="ustalert_sidd.UsbApi.SP_PROPCHANGE_PARAMS" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="ustalert_sidd.UsbApi.USB_SETUP_PACKET" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="ustalert_sidd.UsbApi.SP_DEVICE_INTERFACE_DETAIL_DATA" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="ustalert_sidd.UsbApi.DEV_BROADCAST_DEVICEINTERFACE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="ustalert_sidd.UsbApi.DeviceInterfaceDataFlags" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="ustalert_sidd.UsbApi.USB_DESCRIPTOR_REQUEST" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="ustalert_sidd.UsbApi.HubStatus" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="ustalert_sidd.UsbApi.USB_NODE_CONNECTION_DRIVERKEY_NAME" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="ustalert_sidd.UsbApi.PNP_VETO_TYPE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="ustalert_sidd.UsbApi.RAW_ROOTPORT_PARAMETERS" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="ustalert_sidd.UsbApi.SPDRP" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="ustalert_sidd.UsbApi.SP_DEVINFO_DATA1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Struct Name="ustalert_sidd.UsbApi.USB_ENDPOINT_DESCRIPTOR" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="ustalert_sidd.UsbApi.USB_INTERFACE_DESCRIPTOR" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="ustalert_sidd.UsbApi.USB_NODE_INFORMATION" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="ustalert_sidd.UsbApi.PortIndicatorSlectors" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="ustalert_sidd.UsbApi.USB_CONNECTION_STATUS" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="ustalert_sidd.UsbApi.USB_ROOT_HUB_NAME" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="ustalert_sidd.UsbApi.DEV_BROADCAST_HDR" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="ustalert_sidd.UsbApi.USB_HUB_DESCRIPTOR" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="ustalert_sidd.UsbApi.USB_STRING_DESCRIPTOR" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="ustalert_sidd.UsbApi.STORAGE_DEVICE_NUMBER" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="ustalert_sidd.UsbApi.HID_DESCRIPTOR" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="ustalert_sidd.UsbApi.USB_HCD_DRIVERKEY_NAME" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="ustalert_sidd.UsbApi.SP_DEVINFO_DATA" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="ustalert_sidd.UsbApi.USB_CONFIGURATION_DESCRIPTOR" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="ustalert_sidd.UsbApi.USB_NODE_CONNECTION_NAME" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="ustalert_sidd.UsbApi.USB_DESCRIPTOR_TYPE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="ustalert_sidd.UsbApi.USB_DEVICE_SPEED" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="ustalert_sidd.UsbApi.UsbDeviceClass" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UsbApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CBQJgkwAAQgKSCQBiIQggGhChAIFAEyQ2FEJwkGAAQQ=</HashCode>
+      <FileName>UsbApi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ustalert_sidd.usbService" Collapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gAgAAAAAACACAAAAEACAAAACAAAAAAAAAEAAAAAACBA=</HashCode>
+      <FileName>usbService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

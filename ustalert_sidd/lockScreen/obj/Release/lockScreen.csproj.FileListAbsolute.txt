@@ -1,0 +1,6 @@
+C:\Users\Padhi PC\Documents\Visual Studio 2015\Projects\ustalert_sidd\lockScreen\bin\Release\lockScreen.exe.config
+C:\Users\Padhi PC\Documents\Visual Studio 2015\Projects\ustalert_sidd\lockScreen\bin\Release\lockScreen.exe
+C:\Users\Padhi PC\Documents\Visual Studio 2015\Projects\ustalert_sidd\lockScreen\bin\Release\lockScreen.pdb
+C:\Users\Padhi PC\Documents\Visual Studio 2015\Projects\ustalert_sidd\lockScreen\obj\Release\lockScreen.csprojResolveAssemblyReference.cache
+C:\Users\Padhi PC\Documents\Visual Studio 2015\Projects\ustalert_sidd\lockScreen\obj\Release\lockScreen.exe
+C:\Users\Padhi PC\Documents\Visual Studio 2015\Projects\ustalert_sidd\lockScreen\obj\Release\lockScreen.pdb

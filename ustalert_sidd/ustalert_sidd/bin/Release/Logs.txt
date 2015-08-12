@@ -1,0 +1,21 @@
+Message Recieved: 7/18/2015 8:17:31 AM
+Ejected @ 7/18/2015 8:17:31 AM
+ScreenSacer-> 1
+5567, 0781, 20042204801DDCA0A5AC, Pendrive, 1, 7/18/2015 8:17:31 AM, Ejected
+C:\Users\Padhi PC\Documents\Visual Studio 2015\Projects\ustalert_sidd\ustalert_sidd\bin\Release\
+Process II
+Error: The system cannot find the file specified
+Lock
+USB REMOVED
+SERVICE STOPPED @ 7/18/2015 8:17:43 AM
+SERVICE STARTED @ 7/24/2015 8:00:13 AM
+Message Recieved: 7/24/2015 8:02:45 AM
+Ejected @ 7/24/2015 8:02:46 AM
+ScreenSacer-> 1
+1000, 8564, 37ZZGGX8SR5GF9W5, Pendrive, 1, 7/24/2015 8:02:46 AM, Ejected
+C:\Users\Padhi PC\Documents\Visual Studio 2015\Projects\ustalert_sidd\ustalert_sidd\bin\Release\
+Process II
+Error: The system cannot find the file specified
+Lock
+USB REMOVED
+SERVICE STOPPED @ 7/24/2015 8:08:10 AM

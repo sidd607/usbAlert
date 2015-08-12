@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\Padhi PC\Documents\Visual Studio 2015\Projects\wndprocTest\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Padhi PC\Documents\Visual Studio 2015\Projects\wndprocTest\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Padhi PC\Documents\Visual Studio 2015\Projects\wndprocTest\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service1test...
+Creating EventLog source Service1test in log Application...
+Rolling back assembly 'C:\Users\Padhi PC\Documents\Visual Studio 2015\Projects\wndprocTest\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Padhi PC\Documents\Visual Studio 2015\Projects\wndprocTest\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Padhi PC\Documents\Visual Studio 2015\Projects\wndprocTest\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Service1test.

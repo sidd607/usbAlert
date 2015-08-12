@@ -1,0 +1,7 @@
+C:\Users\Padhi PC\Documents\Visual Studio 2015\Projects\ustalert_sidd\SetupProject1\bin\Release\cab1.cab
+C:\Users\Padhi PC\Documents\Visual Studio 2015\Projects\ustalert_sidd\SetupProject1\bin\Release\SetupProject1.msi
+C:\Users\Padhi PC\Documents\Visual Studio 2015\Projects\ustalert_sidd\SetupProject1\bin\Release\SetupProject1.wixpdb
+obj\Release\Product.wixobj
+obj\Release\SetupProject1.wixproj.BindContentsFileListnull.txt
+obj\Release\SetupProject1.wixproj.BindOutputsFileListnull.txt
+obj\Release\SetupProject1.wixproj.BindBuiltOutputsFileListnull.txt
